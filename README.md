@@ -88,8 +88,7 @@
    ​	一款开源的黑苹果声卡驱动，主要作用是加载原生AppleHDA声卡驱动，依赖lilu.kext。
 
    6.网卡驱动：<https://bitbucket.org/RehabMan/os-x-intel-network/downloads/>（Intel网卡）
-
-   ​		     <https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/>（Realtek网卡）
+               <https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/>（Realtek网卡）
 
    ​	用于驱动网卡，选择对应型号安装。
 
