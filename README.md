@@ -1,4 +1,4 @@
-# Hackintosh镜像制作、安装、、常用Kext驱动、config配置、常见失败原因及解决办法。
+# Hackintosh镜像制作、安装、常用Kext驱动、config配置、常见失败原因及解决办法。
 
 #### 一.前期准备工作
 
